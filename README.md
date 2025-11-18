@@ -2,7 +2,7 @@
 Collection of my useful batch scripts and tools
 
 
-# Osman's Batch Tools 💻
+# Batch Tools 💻
 
 Welcome to **O3Development's Batch Tools**.. A collection of simple, powerful, and handy batch scripts designed to help automate tasks.
 
